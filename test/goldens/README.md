@@ -1,25 +1,26 @@
-# @rljson/
+# @rljson/icons
 
-Todo: Add description here
+This package provides images used for Rljson architecture documentation.
 
-## Example
+## Table of contents <!-- omit in toc -->
 
-```typescript
-import { h } from '@rljson/hash';
+- [Figma](#figma)
+- [Icons](#icons)
 
+## Figma
 
-/**
- * The example function demonstrates how the package works
- */
-export const example = () => {
-  const print = console.log;
-  const assert = console.assert;
+[Figma Template](https://www.figma.com/community/file/1479012733803802350)
 
-  const foo = new Foo();
-  print(foo.foo());
-  assert(foo.foo() === 'bar');
-};
+## Icons
 
-export class X {}
+cake-sliced.svg
 
-```
+<img alt="cake-sliced.svg" src="src/cake-sliced.svg" style="background: white;padding:1rem">
+
+slice.svg
+
+<img alt="slice.svg" src="src/slice.svg" style="background: white;padding:1rem">
+
+cake-layered.svg
+
+<img alt="cake-layered.svg" src="src/cake-layered.svg" style="background: white;padding:1rem">
