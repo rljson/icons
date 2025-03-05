@@ -519,5 +519,6 @@
     "TEHY",
     "upate",
     "yrqcs"
-  ]
+  ],
+  "markdownlint.configFile": ".markdownlint.jsonc"
 }
