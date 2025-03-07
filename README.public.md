@@ -35,16 +35,6 @@ cake-layered.svg
 
 ### Simple
 
-#### Dark
-
-![rljson-logo-simple-dark-128.jpg.webp](./doc/img/logo/rljson-logo-simple-dark-128.jpg.webp)
-
-![rljson-logo-simple-dark-512.jpg.webp](./doc/img/logo/rljson-logo-simple-dark-512.jpg.webp)
-
-![rljson-logo-simple-dark-256.jpg.webp](./doc/img/logo/rljson-logo-simple-dark-256.jpg.webp)
-
-![rljson-logo-simple-dark-1024.jpg.webp](./doc/img/logo/rljson-logo-simple-dark-1024.jpg.webp)
-
 #### Light
 
 ![rljson-logo-simple-light-1024.jpg.webp](./doc/img/logo/rljson-logo-simple-light-1024.jpg.webp)
@@ -54,6 +44,16 @@ cake-layered.svg
 ![rljson-logo-simple-light-512.jpg.webp](./doc/img/logo/rljson-logo-simple-light-512.jpg.webp)
 
 ![rljson-logo-simple-light-128.jpg.webp](./doc/img/logo/rljson-logo-simple-light-128.jpg.webp)
+
+#### Dark
+
+![rljson-logo-simple-dark-128.jpg.webp](./doc/img/logo/rljson-logo-simple-dark-128.jpg.webp)
+
+![rljson-logo-simple-dark-512.jpg.webp](./doc/img/logo/rljson-logo-simple-dark-512.jpg.webp)
+
+![rljson-logo-simple-dark-256.jpg.webp](./doc/img/logo/rljson-logo-simple-dark-256.jpg.webp)
+
+![rljson-logo-simple-dark-1024.jpg.webp](./doc/img/logo/rljson-logo-simple-dark-1024.jpg.webp)
 
 ### Detailed
 
