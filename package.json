@@ -1,6 +1,7 @@
 {
   "name": "@rljson/icons",
   "version": "0.0.1",
+  "packageManager": "pnpm@10.6.2",
   "description": "Icons for RLJSON architecture documentation",
   "homepage": "https://github.com/rljson/icons",
   "bugs": "https://github.com/rljson/icons/issues",
