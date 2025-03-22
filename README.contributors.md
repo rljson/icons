@@ -1,30 +1,32 @@
-# Contributors
+<!--
+@license
+Copyright (c) 2025 Rljson
 
-## Figma
+Use of this source code is governed by terms that can be
+found in the LICENSE file in the root of this package.
+-->
 
-The original Figma design file for the icons can be found here:
+# Contributors Guide
 
-[Original Figma File](https://www.figma.com/design/QHSG0XBYimLFwMhYZ03hrS/Rljson?node-id=0-1&t=6b47KJI8G7f12Hqy-1)
+- [Prepare](#prepare)
+- [Develop](#develop)
+- [Tools](#tools)
+- [Superheros](#superheros)
 
-Please feel free to create a PR of this repo containing additional helpful images.
+## Prepare
 
-## Export the files from Figma
+Read [prepare.md](doc/workflows/prepare.md)
 
-Visit <https://www.figma.com/design/QHSG0XBYimLFwMhYZ03hrS/Rljson?node-id=0-1&t=6b47KJI8G7f12Hqy-1>
+<!-- ........................................................................-->
 
-Press `Cmd+Shift+E`
+## Develop
 
-Save the files to `~/tmp`
+Read [develop.md](doc/workflows/develop.md)
 
-Convert the files to `webp`:
+## Tools
 
-```bash
-find ~/tmp/doc -type f -name "*.jpg" -exec sh -c 'cwebp "$1" -o "${1%.jpeg}.webp" && rm "$1"' _ {} \;
-```
+Read [tools.md](doc/workflows/tools.md)
 
-Copy over the files to this repo:
+## Superheros
 
-```bash
-rm -rf doc/img
-cp -r ~/tmp/doc/img doc/
-```
+Read [super-hero.md](doc/workflows/super-hero.md)
